@@ -3,15 +3,7 @@
 ;floats entered by the user and places each inputted value into consecutive cells of an array. The loop terminates on     *
 ;<enter><ctrl+d> or upon reaching (long max) elements. The number of elements entered is also returned. Input validation  *
 ;is implemented to retry upon encountering an int or string.                                                              *
-;Copyright (C) 2024 Owen Rotenberg.                                                                                       *
-;                                                                                                                         *
-;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License*
-;version 3 as published by the Free Software Foundation.  This program is distributed in the hope that it will be useful, *
-;but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See *
-;the GNU General Public License for more details A copy of the GNU General Public License v3 is available here:           *
-;<https://www.gnu.org/licenses/>.                                                                                         *
 ;**************************************************************************************************************************
-;
 ;
 ;========1=========2=========3=========4=========5=========6=========7=========8=========9=========0=========1=========2**
 ;Author information
